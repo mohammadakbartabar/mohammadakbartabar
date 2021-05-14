@@ -1,7 +1,4 @@
 
-print("salam ")
-name= input("esm khod ra benevisid"":")
-print("khosh amadi",name)
 sal=int(input("sal madnazar khod ra vared konid"":"))
 if (sal%33 == 1) or (sal%33 == 5)\
       or(sal%33 == 9) or (sal%33 == 13)\
@@ -11,3 +8,5 @@ if (sal%33 == 1) or (sal%33 == 5)\
 else:
       print("sal madnazar kabise nist")
 
+
+     
