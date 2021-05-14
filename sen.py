@@ -1,8 +1,5 @@
 # mind that this program thinks that you where born at 00:00:00 
 # this app is based on the Gregorian calender
-print("salam ")
-name= input("esm khod ra benevisid"":")
-print("khosh amadi",name)
 sal_tavalod= int(input("sal tavalod khod ra vared konid"))
 mah_tavalod= int(input('mah tavalod khod ra vared konid'))
 roz_tavalod= int(input("roz tavalod khod ra vared konid "))
